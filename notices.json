@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-09-13",
+  "notices": [
+    {
+      "id": "welcome-20260913",
+      "date": "2026-09-13",
+      "title": "콜렉트로그 공지 테스트",
+      "body": "공지사항 기능이 추가되었습니다. 이 파일을 GitHub Pages에 올리면 앱에서 최신 공지를 읽어옵니다.",
+      "linkLabel": "개인정보처리방침 보기",
+      "linkUrl": "https://psj5500-boop.github.io/collectlog/privacy.html"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "updatedAt": "2026-11-26",
+  "android": {
+    "latestBuild": 7,
+    "minimumSupportedBuild": 1,
+    "updateMode": "flexible",
+    "message": "더 안정적인 사용을 위해 최신 버전으로 업데이트해 주세요.",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.sammustudio.collectlog"
+  }
+}
